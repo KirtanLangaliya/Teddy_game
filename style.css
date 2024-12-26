@@ -1,0 +1,13 @@
+body{
+    background-image: url(mario-bg.jpg);
+    background-size: cover;
+
+   
+}
+.heading
+{
+    text-align: center;
+}
+img {
+    border-image: round;
+}
